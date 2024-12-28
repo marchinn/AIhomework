@@ -7,3 +7,5 @@ I'm taking a learning course for students and teachers from SBGASU "Artificial i
 4. Application of PA in construction and its possible improvements of predictions
 5. Possibilities of using BIG DATA to improve any aspect of construction
 6. BIM application with AI tools in construction
+7. Robotics and autonomic systems in construction
+8. Ethical and legal aspects of the use of AI in construction
